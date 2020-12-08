@@ -42,14 +42,22 @@
 
 .upperDiv {
     background-color: black;
-    height: 500px;
+    height: 400px;
     display: flex;
+    justify-content: space-around;
     width:100%;
 }
 
 .upperDivPhotoImg {
+    margin-right: 80px;
     height: 300px;
     width: 300px;
+    margin-top: 40px;
+}
+
+.upperDivText {
+    margin-top: 70px;
+    margin-left: 80px;
 }
 
 footer {
