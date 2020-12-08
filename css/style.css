@@ -1,5 +1,6 @@
 * {
     font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: #C0C0C0;
 }
 
 
@@ -8,7 +9,19 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #11258c;
-    color: white;
+    background-color: #333333;
     text-align: center;
+}
+
+.navBar {
+    background-color: #333333;
+    display: flex;
+    height: 50px;
+    justify-content: center;
+
+}
+
+.navBarLogo {
+    height: 40px;
+    width: 40px;
 }
