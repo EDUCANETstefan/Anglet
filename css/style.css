@@ -32,3 +32,17 @@
     height: 40px;
     width: 40px;
 }
+
+
+/* obsah stránky */
+
+.divContainer {
+    display: flex;
+}
+
+.upperDiv {
+    background-color: black;
+    height: 500px;
+    display: flex;
+    width: 100%;
+}
