@@ -13,6 +13,7 @@ footer {
     text-align: center;
 }
 
+/* navBar */
 .navBar {
     background-color: #333333;
     display: flex;
@@ -20,8 +21,20 @@ footer {
     justify-content: center;
 
 }
-
 .navBarLogo {
     height: 40px;
     width: 40px;
 }
+
+/* obsah stránky */
+
+.divContainer {
+    display: flex;
+}
+.upperDiv {
+    background-color: black;
+    height: 500px;
+    display: flex;
+    width:100%;
+}
+
