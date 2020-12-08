@@ -45,14 +45,30 @@
 
 .upperDiv {
     background-color: black;
+<<<<<<< HEAD
+    height: 400px;
+=======
     height: 60vh;
+>>>>>>> a5af00ab1dc81e13cdba6400ffc689dfb995eaa6
     display: flex;
+<<<<<<< HEAD
     width: 100%;
+=======
+    justify-content: space-around;
+    width:100%;
+>>>>>>> 78e4f15999fefd8d72b631b1ec432ce0fb3a8ee2
 }
 
 .upperDivPhotoImg {
+    margin-right: 80px;
     height: 300px;
     width: 300px;
+    margin-top: 40px;
+}
+
+.upperDivText {
+    margin-top: 70px;
+    margin-left: 80px;
 }
 
 footer {
