@@ -8,7 +8,7 @@
 }
 
 .nav-link:hover {
-    font-size: larger;
+    text-decoration: underline;
 }
 
 .bg-primary {
