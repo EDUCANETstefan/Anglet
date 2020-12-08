@@ -6,7 +6,9 @@
 }
 
 .navBar {
-    background-color: #333333;
+    background-color: rgb(42, 42, 42);
+    position: fixed;
+    width: 100%;
     display: flex;
     height: 50px;
     align-items: center;
@@ -42,7 +44,11 @@
 
 .upperDiv {
     background-color: black;
+<<<<<<< HEAD
     height: 400px;
+=======
+    height: 60vh;
+>>>>>>> a5af00ab1dc81e13cdba6400ffc689dfb995eaa6
     display: flex;
     justify-content: space-around;
     width:100%;
